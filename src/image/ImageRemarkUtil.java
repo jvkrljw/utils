@@ -13,7 +13,9 @@ import java.io.OutputStream;
 import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 
-
+/*
+*水印工具类
+*/
 public class ImageRemarkUtil {
 
   // 水印透明度
